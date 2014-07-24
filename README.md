@@ -1,7 +1,7 @@
 Getting And Cleaning Data
 ==========================
 
-This repo contains `run_analysis.R`, its explanation `run_analysis.md` and its codebook `CodeBook.md`.
+This repo contains `run_analysis.R`, and its codebook `CodeBook.md`.
 > The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
 Data Source
@@ -30,10 +30,6 @@ Steps to run this project
 Output
 ------
 A tidy data set `HARUsingSmartphones.txt` will be generated.
-
-run_analysis.md
----------------
-This file explains the R script `run_analysis.R`
 
 CodeBook.md
 ---------------
