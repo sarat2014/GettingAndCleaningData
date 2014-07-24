@@ -23,7 +23,7 @@ Guidelines
 
 Steps to run this project
 -------------------
-1. Download `run_analysis.R` and `pkgCkeck.R` scripts to the working directory of R.
+1. Download `run_analysis.R` script to the working directory of R.
 2. > source("run_analysis.R")
 3. > run_analysis()
 
